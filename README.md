@@ -1,2 +1,2 @@
 # ApiClientLib
-Project to help to make API calls
+Helper Library to make API calls
